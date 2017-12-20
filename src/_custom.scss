@@ -5,3 +5,9 @@ details {
 .explanation {
   margin: 0.5rem 0;
 }
+
+$blood: red;
+
+ol {
+  color: $blood;
+} 
